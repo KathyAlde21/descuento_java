@@ -10,4 +10,4 @@ Se te asigna la tarea de diseñar un algoritmo que calcule si un cliente puede a
 • El programa debe mostrar el nombre del cliente, el monto original, el descuento aplicado y el total a pagar.
 • La solución debe ser ejecutada paso a paso y debe visualizarse el valor de las variables.
 
-<img src="./descuento/assets/img/codigo_y_terminal.png" alt="" style="width: 40%;"> <img src="./ejercicio_practico_2/img/ConectarWifiCasa_acceso_incorrecto.jpg" alt="" style="width: 40%;">
+<img src="./assets/img/codigo_y_terminal.png" alt="" style="width: 40%;"> <img src="./ejercicio_practico_2/img/ConectarWifiCasa_acceso_incorrecto.jpg" alt="" style="width: 40%;">
